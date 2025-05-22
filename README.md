@@ -4,8 +4,10 @@
 <h3 align="center">Frontend Developer | React & React Native Enthusiast | ML + NLP Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=UIs+with+React.js+and+React+Native;Frontend+websites+integating+realtime+API's;Hackathon+Lover+%F0%9F%9A%80;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFAA&background=00000000&center=true&vCenter=true&width=900&lines=Passionate+Frontend+Developer;Building+Responsive+UIs+with+React+and+TailwindCSS;Integrating+Real-Time+APIs+for+Smart+UX" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -34,7 +36,7 @@
 ---
 
 ### 💻 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,python,c,cpp,mongodb,mysql,git,figma,jest,scikit-learn,pandas" />
 </p>
 
@@ -47,7 +49,7 @@
 
 ---
 
-### 📈 GitHub Stats (Dark Theme)
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hameedalahr&show_icons=true&theme=tokyonight&hide_title=false" alt="Hameed's GitHub Stats" />
 </p>
