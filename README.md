@@ -12,10 +12,10 @@
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I'm currently building cross-platform mobile apps with **React Native**
-- 🧠 Passionate about merging **Frontend Development**
-- 💬 Ask me about **ReactJS, React Native, JavaScript,Databases**
-- ⚡ Fun fact: I love solving real-world problems through code & design
+- 👨‍💻 I'm currently building cross-platform mobile apps with **React Native**.
+- 🧠 Passionate about merging **Frontend Development**.
+- 💬 Ask me about **ReactJS, React Native, JavaScript,Databases**.
+- ⚡ Fun fact: I love solving real-world problems through code & design.
 
 ---
 
