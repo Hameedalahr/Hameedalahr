@@ -1,7 +1,7 @@
 <!-- GitHub Profile: Abdul Hameed Syed -->
 
 <h1 align="center">Hi 👋, I'm Abdul Hameed Syed</h1>
-<h3 align="center">Frontend Developer | React & React Native Enthusiast | ML + NLP Explorer 🚀</h3>
+<h3 align="center">Frontend Developer | Data Science Enthusiast | ML + NLP Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFAA&background=00000000&center=true&vCenter=true&width=900&lines=Passionate+Frontend+Developer;Building+Responsive+UIs+with+React+and+TailwindCSS;Integrating+Real-Time+APIs+for+Smart+UX" alt="Typing SVG" />
@@ -12,9 +12,9 @@
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I'm currently building cross-platform mobile apps with **React Native**.
-- 🧠 Passionate about merging **Frontend Development**.
-- 💬 Ask me about **ReactJS, React Native, JavaScript,Databases**.
+- 👨‍💻 I'm currently building ML models and integrating it into applications.
+- 🧠 Passionate about merging **Frontend Development** & **Data Science**.
+- 💬 Ask me about **ReactJS, Machine Learning, JavaScript,Databases**.
 - ⚡ Fun fact: I love solving real-world problems through code & design.
 
 ---
